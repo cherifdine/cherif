@@ -1,0 +1,5 @@
+pour accorder une permission a un dossier pour l'execute on fait la commande suivante :
+chmod 755 le nom .*/le fichier a executer
+pour executer un programme en linux on fait :
+./ le fichier a executer
+
